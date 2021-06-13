@@ -1,2 +1,2 @@
 # payment-integration-TSF
- Its a simple payment integration page 
+ Online payment gateway integration using Razorpay 
